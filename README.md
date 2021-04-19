@@ -1,2 +1,2 @@
 # Java Games
-Simple games I created in java
+Simple games I created in java.
