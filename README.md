@@ -1,2 +1,2 @@
 # Java Games
-Simple games in java.
+Simple game in java.
